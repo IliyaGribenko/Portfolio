@@ -24,7 +24,17 @@
         - конверсии в просмотр карточек товаров - событие `product_page`
         - просмотр корзины - `product_cart`
         - покупки - `purchase`
-        
+
+## Инструменты
+
+- python
+- datetime
+- pandas
+- matplotlib
+- seaborn
+- plotly
+- statsmodels
+
  ## Общие выводы
  
  Найден ряд ошибок допущенных при проведении теста.
