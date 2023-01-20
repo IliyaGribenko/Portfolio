@@ -32,3 +32,9 @@ If the power or significance level of the simulated test (Monte-Carlo) differs f
 - seaborn
 - statsmodels
 - scipy
+
+**Conclusion**
+
+We did not get a big difference between the planned and the actual power, the planned and the actual alpha, from this we can conclude that we correctly conducted the simulation of the test.
+
+I hope that for those who have viewed this notebook, the testing has become a little clearer.
